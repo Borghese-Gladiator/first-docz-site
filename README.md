@@ -3,6 +3,11 @@ Create sample documentation for a project using MDX.  Enables users to embed Rea
 
 Used Next.js to divide markdown files into pages (and enable SSR to improve SEO and runtime).
 
+## steps to create-next-app with MDX
+- `npx create-next-app next-sample-documentation`
+- `npm install --save @next/mdx @mdx-js/loader`
+- `npm run dev`
+
 ## create-next-app 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
