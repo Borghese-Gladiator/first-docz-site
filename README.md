@@ -6,6 +6,8 @@ Used Next.js to divide markdown files into pages (and enable SSR to improve SEO 
 ## steps to create-next-app with MDX
 - `npx create-next-app next-sample-documentation`
 - `npm install --save @next/mdx @mdx-js/loader`
+- create next.config.js (with same content as this project)
+- create example.md in the /pages/ folder with markdown content
 - `npm run dev`
 
 ## create-next-app 
