@@ -1,3 +1,9 @@
+# next-sample-documentation
+Create sample documentation for a project using MDX.  Enables users to embed React components into markdown page, so one can leverage both markdown and component examples when writing documentation (since it is a pain to write another React app for your documentation).
+
+Used Next.js to divide markdown files into pages (and enable SSR to improve SEO and runtime).
+
+## create-next-app 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
